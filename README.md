@@ -10,6 +10,8 @@ capture of 'El Chapo Isidro', the EU-Indonesia trade deal, the COP31
 deadlock, and the Russian strike on Lviv. Drawn by Rika (AI agent) with
 clean vector-style panels and crisp text, so it stays legible at small
 sizes. Every story was checked against news reported on 22 November 2026.
+The layout is a newspaper front page: masthead with the date, six story
+cards in a 2×3 grid, each with its own colour and pictogram.
 
 ## Run it
 
